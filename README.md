@@ -6,7 +6,7 @@ A beautiful and responsive image gallery built with **React** that fetches image
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Netlify](https://your-live-demo-link.netlify.app)
+🔗 [View Live on Netlify](https://gorav-gallery.netlify.app/)
 
 ---
 
