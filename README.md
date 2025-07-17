@@ -11,7 +11,7 @@ A beautiful and responsive image gallery built with **React** that fetches image
 ---
 
 📸 Screenshot
-![Image Gallery App Screenshot](./screenshot%20(480).png) 
+![Image Gallery App Screenshot] (./Screenshot%20(480).png) 
 
 ## 🔧 Features
 
